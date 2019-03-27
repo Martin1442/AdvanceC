@@ -1,0 +1,7 @@
+C:\Users\vitan\OneDrive\Desktop\AdvanceC\CountryHomework\bin\Debug\CountryHomework.exe.config
+C:\Users\vitan\OneDrive\Desktop\AdvanceC\CountryHomework\bin\Debug\CountryHomework.exe
+C:\Users\vitan\OneDrive\Desktop\AdvanceC\CountryHomework\bin\Debug\CountryHomework.pdb
+C:\Users\vitan\OneDrive\Desktop\AdvanceC\CountryHomework\obj\Debug\CountryHomework.csprojAssemblyReference.cache
+C:\Users\vitan\OneDrive\Desktop\AdvanceC\CountryHomework\obj\Debug\CountryHomework.csproj.CoreCompileInputs.cache
+C:\Users\vitan\OneDrive\Desktop\AdvanceC\CountryHomework\obj\Debug\CountryHomework.exe
+C:\Users\vitan\OneDrive\Desktop\AdvanceC\CountryHomework\obj\Debug\CountryHomework.pdb
