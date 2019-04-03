@@ -1,0 +1,7 @@
+C:\Users\vitan\OneDrive\Desktop\C#Advance Predavanja\g5\Class04\PcConfigurator\bin\Debug\PcConfigurator.exe.config
+C:\Users\vitan\OneDrive\Desktop\C#Advance Predavanja\g5\Class04\PcConfigurator\bin\Debug\PcConfigurator.exe
+C:\Users\vitan\OneDrive\Desktop\C#Advance Predavanja\g5\Class04\PcConfigurator\bin\Debug\PcConfigurator.pdb
+C:\Users\vitan\OneDrive\Desktop\C#Advance Predavanja\g5\Class04\PcConfigurator\obj\Debug\PcConfigurator.csproj.CoreCompileInputs.cache
+C:\Users\vitan\OneDrive\Desktop\C#Advance Predavanja\g5\Class04\PcConfigurator\obj\Debug\PcConfigurator.exe
+C:\Users\vitan\OneDrive\Desktop\C#Advance Predavanja\g5\Class04\PcConfigurator\obj\Debug\PcConfigurator.pdb
+C:\Users\vitan\OneDrive\Desktop\C#Advance Predavanja\g5\Class04\PcConfigurator\obj\Debug\PcConfigurator.csprojAssemblyReference.cache
