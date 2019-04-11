@@ -6,24 +6,22 @@ using System.Threading.Tasks;
 
 namespace Parking
 {
-    public class Boat : IVehicles
+    public class Truck : IVehicles
     {
-        public string Name { get; set; }
-        public bool Besplatno { get; set; }
         public string Make { get; set; }
         public string Model { get; set; }
 
         public bool IsParked { get; set; }
 
+
         public void Parked()
         {
-            Console.WriteLine($"Boat with Name:{Name} has parked!");
+            Console.WriteLine($"Truck with Make:{Make} and Model:{Model} has parked!");
             IsParked = true;
         }
-
         public void LeaveParking()
         {
-            Console.WriteLine($"Boat with Name:{Name} has left!");
+            Console.WriteLine($"Truck with Make:{Make} and Model:{Model} has left!");
             IsParked = false;
         }
     }

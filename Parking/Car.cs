@@ -1,7 +1,7 @@
 ﻿using System;
 namespace Parking
 {
-    public class Car
+    public class Car : IVehicles
     {
         public string Make { get; set; }
         public string Model { get; set; }
@@ -9,8 +9,13 @@ namespace Parking
         public bool IsElectric { get; set; }
 
         public bool IsParked { get; set; }
-        public Parking Parking { get; set; }
 
+
+        public void Parked()
+        {
+            Console.WriteLine($"Car with Make:{Make} and Model:{Model} has parked!");
+            IsParked = true;
+        }
         public void LeaveParking()
         {
             Console.WriteLine($"Car with Make:{Make} and Model:{Model} has left!");

@@ -4,3 +4,9 @@ C:\Users\vitan\OneDrive\Desktop\C#Advance Predavanja\AdvanceClass-06\Parking\bin
 C:\Users\vitan\OneDrive\Desktop\C#Advance Predavanja\AdvanceClass-06\Parking\obj\Debug\Parking.csproj.CoreCompileInputs.cache
 C:\Users\vitan\OneDrive\Desktop\C#Advance Predavanja\AdvanceClass-06\Parking\obj\Debug\Parking.exe
 C:\Users\vitan\OneDrive\Desktop\C#Advance Predavanja\AdvanceClass-06\Parking\obj\Debug\Parking.pdb
+C:\Users\vitan\OneDrive\Desktop\AdvanceC\AdvanceClass-06\Parking\bin\Debug\Parking.exe.config
+C:\Users\vitan\OneDrive\Desktop\AdvanceC\AdvanceClass-06\Parking\bin\Debug\Parking.exe
+C:\Users\vitan\OneDrive\Desktop\AdvanceC\AdvanceClass-06\Parking\bin\Debug\Parking.pdb
+C:\Users\vitan\OneDrive\Desktop\AdvanceC\AdvanceClass-06\Parking\obj\Debug\Parking.csproj.CoreCompileInputs.cache
+C:\Users\vitan\OneDrive\Desktop\AdvanceC\AdvanceClass-06\Parking\obj\Debug\Parking.exe
+C:\Users\vitan\OneDrive\Desktop\AdvanceC\AdvanceClass-06\Parking\obj\Debug\Parking.pdb
