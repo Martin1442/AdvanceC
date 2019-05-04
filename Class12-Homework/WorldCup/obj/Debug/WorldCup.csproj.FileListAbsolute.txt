@@ -1,0 +1,13 @@
+C:\Users\vitan\OneDrive\Desktop\g5\Class12\WorldCup\bin\Debug\WorldCup.exe.config
+C:\Users\vitan\OneDrive\Desktop\g5\Class12\WorldCup\bin\Debug\WorldCup.exe
+C:\Users\vitan\OneDrive\Desktop\g5\Class12\WorldCup\bin\Debug\WorldCup.pdb
+C:\Users\vitan\OneDrive\Desktop\g5\Class12\WorldCup\bin\Debug\Newtonsoft.Json.dll
+C:\Users\vitan\OneDrive\Desktop\g5\Class12\WorldCup\bin\Debug\Newtonsoft.Json.xml
+C:\Users\vitan\OneDrive\Desktop\g5\Class12\WorldCup\obj\Debug\WorldCup.csprojAssemblyReference.cache
+C:\Users\vitan\OneDrive\Desktop\g5\Class12\WorldCup\obj\Debug\WorldCup.WorldCupForm.resources
+C:\Users\vitan\OneDrive\Desktop\g5\Class12\WorldCup\obj\Debug\WorldCup.Properties.Resources.resources
+C:\Users\vitan\OneDrive\Desktop\g5\Class12\WorldCup\obj\Debug\WorldCup.csproj.GenerateResource.cache
+C:\Users\vitan\OneDrive\Desktop\g5\Class12\WorldCup\obj\Debug\WorldCup.csproj.CoreCompileInputs.cache
+C:\Users\vitan\OneDrive\Desktop\g5\Class12\WorldCup\obj\Debug\WorldCup.csproj.CopyComplete
+C:\Users\vitan\OneDrive\Desktop\g5\Class12\WorldCup\obj\Debug\WorldCup.exe
+C:\Users\vitan\OneDrive\Desktop\g5\Class12\WorldCup\obj\Debug\WorldCup.pdb

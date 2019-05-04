@@ -1,0 +1,7 @@
+C:\Users\vitan\OneDrive\Desktop\g5\Class12\Fibonaccis\bin\Debug\Fibonaccis.exe.config
+C:\Users\vitan\OneDrive\Desktop\g5\Class12\Fibonaccis\bin\Debug\Fibonaccis.exe
+C:\Users\vitan\OneDrive\Desktop\g5\Class12\Fibonaccis\bin\Debug\Fibonaccis.pdb
+C:\Users\vitan\OneDrive\Desktop\g5\Class12\Fibonaccis\obj\Debug\Fibonaccis.csprojAssemblyReference.cache
+C:\Users\vitan\OneDrive\Desktop\g5\Class12\Fibonaccis\obj\Debug\Fibonaccis.csproj.CoreCompileInputs.cache
+C:\Users\vitan\OneDrive\Desktop\g5\Class12\Fibonaccis\obj\Debug\Fibonaccis.exe
+C:\Users\vitan\OneDrive\Desktop\g5\Class12\Fibonaccis\obj\Debug\Fibonaccis.pdb
